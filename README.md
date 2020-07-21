@@ -13,7 +13,9 @@ Hi, I'm Joanna- a front end developer actively seeking a web developer position!
 
 ### :coffee: Wanna Chat? 
   * @ me on [Twitter](https://twitter.com/joeyannax) about crime shows, your latest Netflix binge, design or your book recommendations!
-  * connect with me on [LinkedIn](https://www.linkedin.com/in/joannaylin/)
+  * connect with me on [LinkedIn](https://www.linkedin.com/in/joannaylin/).
+  
+  
   
 > “I am learning every day to allow the space between where I am and where I want to be to inspire me and not terrify me.”
 > Tracee Ellis Ross
