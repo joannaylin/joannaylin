@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hey there! :sparkles: 
 
-<!--
-**joannaylin/joannaylin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Joanna- a front end developer actively seeking a web developer position! Lover of criminal shows, chronically rewatching Netflix shows, reading, and all things design. If I'm not in front of the computer coding, or learning, I'm likely off in a corner dancing, hiking, or just endless twitter-scrolling.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 I’m currently working on ...
+  * learning data structures and algorithms! 
+  * bettering my React knowledge. 
+  * a little side project - building a game.
+  * understanding growth is not linear, and comes with time. 
+
+
+### :coffee: Wanna Chat? 
+  * @ me on [Twitter](https://twitter.com/joeyannax) about crime shows, calligraphy, design or your book recommendations!
+  * connect with me on [LinkedIn](https://www.linkedin.com/in/joannaylin/)
+  
+> “I am learning every day to allow the space between where I am and where I want to be to inspire me and not terrify me.”
+> Tracee Ellis Ross
