@@ -1,6 +1,6 @@
 # Hey there! :sparkles: 
 
-Hi, I'm Joanna- a front end developer actively seeking a web developer position! Lover of criminal shows, chronically rewatching Netflix shows, reading, and all things design. If I'm not in front of the computer coding, or learning, I'm likely off in a corner dancing, hiking, or just endless twitter-scrolling.
+Hi, I'm Joanna- a front end developer actively seeking a web developer position! Lover of criminal shows, chronically rewatching Netflix shows, reading, and all things design. If I'm not in front of the computer coding, or learning, I'm likely off in a corner dancing, doing yoga, or just endless twitter-scrolling.
 
 
 ### 🌱 I’m currently working on ...
