@@ -3,7 +3,7 @@
 Hi, I'm Joanna- a developer actively seeking a software engineering position! Lover of all the foods, criminal shows, chronically rewatching tv shows (peep TopChef and Grey's Anatomy), reading, and all things design. If I'm not in front of the computer coding, I'm likely off in a corner dancing, doing yoga, or just endless twitter-scrolling.
 
 
-### 🌱 I’m currently working on ...
+## 🌱 I’m currently working on ...
   * learning data structures and algorithms! 
   * bettering my React knowledge. Hooks? You bet. 
   * a little side project - building a game.
@@ -11,7 +11,7 @@ Hi, I'm Joanna- a developer actively seeking a software engineering position! Lo
   * living and learning outside of my head. 
 
 
-### :coffee: Wanna Chat? 
+## :coffee: Wanna Chat? 
   * @ me on [Twitter](https://twitter.com/joeyannax) about crime shows, your latest Netflix binge, design or your book recommendations!
   * connect with me on [LinkedIn](https://www.linkedin.com/in/joannaylin/).
   
