@@ -1,6 +1,6 @@
 # Hi, I'm Joanna :wave:
 
-Currently, actively seeking a web developer position. Lover of all the foods, criminal shows, chronically rewatching tv shows (peep TopChef and Grey's Anatomy), reading, and all things design. If I'm not in front of the computer coding, I'm likely off in a corner dancing, doing yoga, or just endless twitter-scrolling.
+Currently, actively seeking a web developer position. Lover of all the foods, chronically rewatching tv shows (peep Criminal Minds and Grey's Anatomy), reading, and all things design. If I'm not in front of the computer coding, I'm likely off in a corner dancing, doing yoga, or just endless twitter-scrolling.
 
 
 ## 🌱 I’m currently working on ...
@@ -12,7 +12,7 @@ Currently, actively seeking a web developer position. Lover of all the foods, cr
 
 
 ## :coffee: Wanna Chat? 
-  * @ me on [Twitter](https://twitter.com/joeyannax) about crime shows, your latest Netflix binge, design or your book recommendations!
+  * @ me on [Twitter](https://twitter.com/joeyannax) about crime shows, your latest Netflix binge, or your book recommendations!
   * connect with me on [LinkedIn](https://www.linkedin.com/in/joannaylin/).
   
   
