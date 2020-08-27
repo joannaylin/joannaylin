@@ -4,8 +4,8 @@ Currently, actively seeking a web developer position. Lover of all the foods, ch
 
 
 ## 🌱 I’m currently working on ...
-  * learning data structures and algorithms! 
-  * bettering my React knowledge. Hooks? You bet. 
+  * studying data structures and algorithms! 
+  * delving deeper into React.
   * a little side project - building a game.
   * understanding growth is not linear, and comes with time. 
   * living and learning outside of my head. 
