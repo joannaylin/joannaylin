@@ -1,4 +1,4 @@
-# Hi, I'm Joanna :wave:
+# :wave: Hi, I'm Joanna 
 
 Currently, actively seeking a software engineer position. Lover of all the foods, chronically rewatching tv shows (peep Criminal Minds and Grey's Anatomy), reading, and all things design. If I'm not in front of the computer coding, I'm likely off in a corner doing yoga, reading or just endless twitter-scrolling.
 
