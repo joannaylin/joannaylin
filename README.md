@@ -1,11 +1,9 @@
 # :wave: Hi, I'm Joanna 
 
-Currently, actively seeking a software engineer position. Lover of all the foods, chronically rewatching tv shows (peep Criminal Minds and Grey's Anatomy), reading, and all things design. If I'm not in front of the computer coding, I'm likely off in a corner doing yoga, reading or just endless twitter-scrolling. 
+Currently, a software engineer at Hologram. Lover of all the foods, chronically rewatching tv shows (peep Criminal Minds and Grey's Anatomy), reading, and all things design. If I'm not in front of the computer coding, I'm likely off in a corner doing some form of aerial arts, reading or just endless twitter-scrolling. 
 
 
 ## 🌱 I’m currently working on ...
-  * studying data structures and algorithms! 
-  * delving deeper into React.
   * a little side project - building a game.
   * understanding growth is not linear, and comes with time. 
   * living and learning outside of my head. 
