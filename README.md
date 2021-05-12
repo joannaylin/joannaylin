@@ -1,6 +1,6 @@
 # :wave: Hi, I'm Joanna 
 
-Currently, a software engineer at Hologram. Lover of all the foods, chronically rewatching tv shows (peep Criminal Minds and Grey's Anatomy), reading, and all things design. If I'm not in front of the computer coding, I'm likely off in a corner doing some form of aerial arts, reading or just endless twitter-scrolling. 
+Currently, a software engineer at Hologram. Lover of all the foods, reading, and chronically rewatching tv shows (peep Criminal Minds and Grey's Anatomy). If I'm not in front of the computer coding, I'm likely off in a corner doing some form of aerial arts, reading or just endless twitter-scrolling. 
 
 
 ## 🌱 I’m currently working on ...
