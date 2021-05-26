@@ -4,7 +4,7 @@ Currently, a software engineer at Hologram. Lover of all the foods, reading, and
 
 
 ## 🌱 I’m currently working on ...
-  * a little side project - building a game.
+  * delving deep into CSS.
   * understanding growth is not linear, and comes with time. 
   * living and learning outside of my head. 
 
